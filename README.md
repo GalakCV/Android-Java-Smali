@@ -30,17 +30,6 @@
 
 ---
 
-## Objetivo
-
-Este guia ajuda a:
-
-- entender como Java e Kotlin se transformam em bytecode Android;
-- ler classes, campos, métodos e instruções Smali;
-- relacionar trechos Smali com construções equivalentes em Java;
-- navegar por um APK usando JADX, Apktool e ferramentas do Android SDK;
-- evitar os erros mais comuns durante experimentos em laboratório;
-- desenvolver uma metodologia eficiente de análise estática.
-
 > [!IMPORTANT]
 > Smali não é uma reprodução do código-fonte original. Ele é uma representação textual das instruções armazenadas no DEX.
 
@@ -643,18 +632,6 @@ return-void         retorna sem valor
 - [Documentação do `apksigner`](https://developer.android.com/tools/apksigner)
 - [Projeto Smali/baksmali mantido pelo Google](https://github.com/google/smali)
 - [JADX](https://github.com/skylot/jadx)
-
-## Uso responsável
-
-Este conteúdo tem finalidade educacional e defensiva. Utilize as técnicas apenas em:
-
-- aplicativos desenvolvidos por você;
-- laboratórios deliberadamente vulneráveis;
-- pesquisas com autorização expressa;
-- auditorias cujo escopo permita engenharia reversa;
-- análise de malware realizada em ambiente isolado e seguro.
-
-Não utilize este material para violar licenças, privacidade, propriedade intelectual ou controles de acesso.
 
 ---
 
