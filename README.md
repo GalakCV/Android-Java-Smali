@@ -605,39 +605,6 @@ A leitura de Java e Smali pode não revelar todo o comportamento quando o aplica
 
 Nesses casos, a análise estática produz hipóteses que devem ser confirmadas com observação dinâmica em ambiente autorizado.
 
-## Roteiro de estudos
-
-### Nível 1 — Fundamentos
-
-- [ ] Criar uma classe Java pequena.
-- [ ] Identificar classes, campos e métodos no Smali.
-- [ ] Memorizar os descritores de tipos mais comuns.
-- [ ] Entender `p0`, `p1`, `v0` e `v1`.
-- [ ] Comparar condições Java com labels e saltos Smali.
-
-### Nível 2 — Ferramentas
-
-- [ ] Abrir um APK próprio no JADX.
-- [ ] Decodificá-lo com Apktool.
-- [ ] Comparar o Java reconstruído com o Smali.
-- [ ] Alterar uma string de laboratório.
-- [ ] Reconstruir, alinhar, assinar e verificar o APK.
-
-### Nível 3 — Fluxos reais
-
-- [ ] Acompanhar chamadas entre várias classes.
-- [ ] Ler blocos `try/catch`.
-- [ ] Reconhecer `switch`, arrays e métodos sintéticos.
-- [ ] Investigar um APK multidex.
-- [ ] Entender os efeitos de ofuscação e otimização do R8.
-
-### Nível 4 — Tópicos avançados
-
-- [ ] Estudar bytecode gerado por Kotlin e corrotinas.
-- [ ] Aprender fundamentos de JNI e bibliotecas nativas.
-- [ ] Comparar análise estática e dinâmica.
-- [ ] Estudar mecanismos defensivos e integridade de aplicativos.
-
 ## Folha de consulta rápida
 
 ```text
