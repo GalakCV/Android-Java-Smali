@@ -7,8 +7,6 @@
 [![Smali](https://img.shields.io/badge/Smali-Dalvik%20Bytecode-6A5ACD)](https://source.android.com/docs/core/runtime/dalvik-bytecode)
 [![Uso](https://img.shields.io/badge/Uso-Educacional-2563EB)](#uso-responsável)
 
-Este material foi inspirado no vídeo [**Eng. Reversa de Apps Android — Parte 3.1 — Análise Estática (Código Smali)**](https://www.youtube.com/watch?v=Qva0blKn_0Y), da Hack N' Roll Academy, e complementado com a documentação atual do Android.
-
 ---
 
 ## Sumário
