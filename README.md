@@ -30,7 +30,7 @@
 
 ---
 
-> [!IMPORTANT]
+> [!IMPORTANTE]
 > Smali não é uma reprodução do código-fonte original. Ele é uma representação textual das instruções armazenadas no DEX.
 
 ## Visão geral
